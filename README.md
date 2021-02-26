@@ -1,4 +1,4 @@
-## **Hi there** 👋
+## **Hello coders** 
 ### Neel here.... welcome to my profile :blush:
 
 - 🔭 I’m currently working on Image classification & Recommendation system 
